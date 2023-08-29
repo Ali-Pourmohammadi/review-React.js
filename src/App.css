@@ -285,6 +285,7 @@ main {
   width: 50%;
   display: flex;
   justify-content: space-around;
+  padding: 1rem;
 }
 .steps div{
   padding: .5rem 1rem;
